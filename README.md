@@ -1,4 +1,6 @@
 <h2 align="left">Hello World</h2>
+---
+- 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 
 ###
 
